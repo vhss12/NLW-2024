@@ -7,7 +7,7 @@
 
   ## Peças de uma linguagem
   
- - Comentários 
+ - [x] Comentários 
  - Declaração de variáveis (cons,let)
  - Operadores (atribuição,cocatenação,matemáticos,lógicos )
  - Tipos de dados (string, number, boolean)
@@ -20,3 +20,18 @@
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Escopo e variáveis
+
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados:
+
+-  Strings (texto): "" '' ``
+-  Numbers: 2 1.4
+-  Function
+
+## Operadores 
+
+Operadores de atribuição de valor
