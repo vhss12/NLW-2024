@@ -7,10 +7,13 @@ let meta ={
         console.log(info)
     }
 }
-meta.value = "não é mais ler um livro"
-meta.isChecked(meta.value)
 
-// function // arrow function
-//const criarMeta = () => {}
+let metas = [
+    meta,
+    {
+        value:"caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
 
-//function criarMeta() {}
+console.log(metas[1].value)
