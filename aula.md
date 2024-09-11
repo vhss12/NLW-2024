@@ -7,7 +7,7 @@
 
   ## Peças de uma linguagem
   
- - [x] Comentários 
+ - Comentários 
  - Declaração de variáveis (cons,let)
  - Operadores (atribuição,cocatenação,matemáticos,lógicos )
  - Tipos de dados (string, number, boolean)
@@ -44,7 +44,7 @@ Apresentar os dados
 ### Arrays: 
 
 [x] Uma lista que contém qualquer tipo de dado
-[x] Métodos de array: push, [find, forEach, filter] : HOF(Higher Order functions)
+[x] Métodos de array: push, [find, forEach, filter, map] : HOF(Higher Order functions)
 
 ### Objetos:
 
@@ -66,6 +66,7 @@ Apresentar os dados
 
 - [x] Switch
 - [x] if/else
+
 ## Módulos em Node.js:
 
 - [x] Importação de módulos (require, CommonJS)
